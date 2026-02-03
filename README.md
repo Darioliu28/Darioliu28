@@ -1,5 +1,5 @@
 # 💫 About Me:
-📚 I’m currently enrolled in Applied Math Master at EPFL<br>💻 Learning programming skills with a minori in Data Science<br>🇨🇭 Based in Lausanne<br>🎾 I like playing tennis in my free time
+📚 I’m currently enrolled in Applied Math Master at EPFL<br>💻 Learning programming skills with a minor in Data Science<br>🇨🇭 Based in Lausanne<br>🎾 I like playing tennis in my free time
 
 
 ## 🌐 Socials:
